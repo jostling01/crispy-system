@@ -1,2 +1,2 @@
 # crispy-system
-Everything we have learnt about git
+Sam loves crispy system 
