@@ -2,6 +2,7 @@
 # crispy-system
 Everything we have learnt about git
 
+
 # ***An Introduction to GitHub***
 
 ![github icon](githubicons.png)
@@ -22,6 +23,20 @@ Heres a breakdown of the main features GitHub offers
 *This article will cover*
 - Revert, Reset, Restore
 - How to navigate files/folders in terminal
+
+
+## States files can exist in
+
+
+Working Directory
+- file sitting in folder but git doesn't know what it is
+- the command git add takes the file to the staging area
+
+Staging Area
+- content can be or has been added to the file but has not yet been comitted
+
+Commit
+- use the command git commit -m "*message*" to commit (save) changes to the file
 
 
 # Revert Reset and Restore
