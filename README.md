@@ -16,7 +16,7 @@ Heres a breakdown of the main features GitHub offers
 
 - Revert back to old versions of files
 
-- Project collaboration 
+- Project collaboration (fun!)
 
 - Development on top of an existing file
 ```
