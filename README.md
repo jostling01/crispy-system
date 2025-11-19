@@ -38,6 +38,9 @@ Staging Area
 Commit
 - use the command git commit -m "*message*" to commit (save) changes to the file
 
+Repository
+- Where you and your collaborators' work is stored on GitHub
+
 
 # Revert Reset and Restore
 
