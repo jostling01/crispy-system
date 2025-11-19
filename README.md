@@ -39,7 +39,7 @@ Commit
 - use the command git commit -m "*message*" to commit (save) changes to the file
 
 
-# Revert Reset and Restore
+# Revert Reset and Restore Functions
 
 
 ## Revert
